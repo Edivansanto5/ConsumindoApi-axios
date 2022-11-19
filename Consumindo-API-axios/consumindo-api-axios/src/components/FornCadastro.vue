@@ -7,7 +7,12 @@
         </nav>
         <div class="conteiner">
             <form>
-
+                <label>Nome</label>
+                <input type="text">
+                <label>Quantidade</label>
+                <input type="text">
+                <label>vValor</label>
+                <input type="text">
             </form>
             <thead>
                 <tr>
