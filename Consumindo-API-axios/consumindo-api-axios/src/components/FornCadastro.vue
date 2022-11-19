@@ -10,11 +10,11 @@
             <!-- formulario -->
             <form>
                 <label>Nome</label>
-                <input type="text">
+                <input type="text" placeholder="Nome do Produto">
                 <label>Quantidade</label>
-                <input type="number">
-                <label>vValor</label>
-                <input type="text">
+                <input type="number" placeholder="Qauntidade de produtos">
+                <label>Valor</label>
+                <input type="text" placeholder="Valor do produto">
                  <button class="< waves-effect waves-light btn-small">Salvar <i class="material-icons left">save</i></button> <!--<i class="material-icons left">save</i> vai add icone de salvar -->
             </form>
 
