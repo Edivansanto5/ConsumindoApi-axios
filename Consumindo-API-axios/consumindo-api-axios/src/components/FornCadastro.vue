@@ -6,14 +6,19 @@
             </div>
         </nav>
         <div class="conteiner">
+
+            <!-- formulario -->
             <form>
                 <label>Nome</label>
                 <input type="text">
                 <label>Quantidade</label>
-                <input type="text">
+                <input type="number">
                 <label>vValor</label>
                 <input type="text">
+                 <button class="< waves-effect waves-light btn-small">Salvar <i class="material-icons left">save</i></button> <!--<i class="material-icons left">save</i> vai add icone de salvar -->
             </form>
+
+            <!--fazendo uma tabela de uma coluna e 4 linha-->
             <thead>
                 <tr>
                     <th></th>
