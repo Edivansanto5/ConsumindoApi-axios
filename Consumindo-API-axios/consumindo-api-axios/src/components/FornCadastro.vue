@@ -18,13 +18,14 @@
                  <button class="< waves-effect waves-light btn-small">Salvar <i class="material-icons left">save</i></button> <!--<i class="material-icons left">save</i> vai add icone de salvar -->
             </form>
 
-            <!--fazendo uma tabela de uma coluna e 4 linha-->
+            <!--fazendo uma tabela 1 linha e 4 colunas -->
+            <!--<tr> quantidade de linha e <th> quantidade de colunas-->
             <thead>
-                <tr>
-                    <th></th>
-                    <th></th>
-                    <th></th>
-                    <th></th>
+                <tr> 
+                    <th>HOME</th>
+                    <th>QUANTIDADE</th>
+                    <th>VALOR</th>
+                    <th>OPÇÕES</th>
                 </tr>
             </thead>
         </div>
